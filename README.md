@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nathaniel Alexander</h1>
 
 # 💫 About Me:
-🎓 CS student @ Harvard University  
-👨‍🏫 Software Laboratory Assistant @ Harvard University  
+🎓 CS student @ Binus University  
+👨‍🏫 Software Laboratory Assistant @ Binus University  
 💻 Aspiring Full Stack Developer  
 🤖 AI enthusiast  
 
-🌐 **Portfolio:** [nathanielalexader.vercel.app](https://nathanielalexander.vercel.app/)  
+🌐 **Portfolio:** [nathanielalexander.vercel.app](https://nathanielalexander.vercel.app/)  
 🔗 **LinkedIn:** [linkedin.com/in/nathanielalex](https://www.linkedin.com/in/nathanielalex/)
 
 
