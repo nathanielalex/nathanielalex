@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 🎓 CS student @ Binus University  
-👨‍🏫 Software Laboratory Assistant @ Binus University  
-💻 Aspiring Full Stack Developer  
+👨‍🏫 Software laboratory assistant @ Binus University  
+💻 Aspiring full stack developer  
 🤖 AI enthusiast  
 
 🌐 **Portfolio:** [nathanielalexander.vercel.app](https://nathanielalexander.vercel.app/)  
